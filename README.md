@@ -1,2 +1,2 @@
-# server-side-javascript
+# rarira-javascript
 server-side-javascript learning
